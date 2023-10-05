@@ -1,0 +1,126 @@
+/*style for my about tittle*/
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+
+}
+html {
+    box-sizing: border-box;
+}
+.about-section {
+    padding: 50px;
+    text-align: center;
+    background-color: #474e5d;
+    color: #ffff;
+} 
+
+/*style for profile*/
+.card {
+    box-shadow: o 4px 8px 0 rgb(0,0,0,0.2);
+    margin: 0 50px;
+    padding-top: 7px;
+    border-radius: 16px;
+    background-color: whitesmoke;
+}
+
+.card img {
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+.profile-container {
+    text-align: center;
+}
+
+.profile-tittle {
+    color: grey;
+}
+.profile-btn {
+    border: none;
+    border-radius: 10px;
+    outline: 0;
+    display: inline-block;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    margin-bottom: 12px;
+    background-color: #000;
+    text-align: center;
+    width: 40%;
+    text-decoration: none;
+    color: #ffff;
+}
+.profile-btn:hover {
+    background-color: blue;
+}
+
+/*styling skill bar*/
+
+.skill-bar {
+    margin: 0 15px;
+}
+.skill-containert {
+    width: 100%;
+    background-color: #ddd;
+   
+}
+.skill-bar p {
+    font-size: 18px;
+}
+.html-skill {
+    text-align: center;
+    font-weight: bold;
+    padding: 10px 0;
+    background-color: green;
+    color: white;
+    width: 92%;
+    text-align: right;
+}
+.css-skill {
+    text-align: center;
+    font-weight: bold;
+    padding: 10px 0;
+    background-color:blue;
+    color: white;
+    width: 90%;
+    text-align: right;
+}
+.js-skill {
+    text-align: center;
+    font-weight: bold;
+    padding: 10px 0;
+    background-color: greenyellow;
+    color: white;
+    width: 10%;
+    text-align: right;
+}
+.wp-skill {
+    text-align: center;
+    font-weight: bold;
+    padding: 10px 0;
+    background-color: green;
+    color: white;
+    width: 80%;
+    text-align: right;
+}
+.grap-skill {
+    text-align: center;
+    font-weight: bold;
+    padding: 10px 0;
+    background-color: blue;
+    color: white;
+    width: 80%;
+    text-align: right;
+}
+.py-skill {
+    text-align: center;
+    font-weight: bold;
+    padding: 10px 0;
+    background-color: yellowgreen;
+    color: white;
+    width: 60%;
+    text-align: right;
+}
+
+
+

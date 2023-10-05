@@ -1,0 +1,23 @@
+/* styling the intro section*/
+.intro {
+    padding: 30px 12px;
+    margin-left: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    display: inline-block;
+}
+.intro span {
+    color: blue;
+    font-family: fantasy;
+    font-weight: bolder;
+}
+.intro a {
+    background-color: blue;
+    color: white;
+    padding: 10px 10px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+.intro a:hover {
+    background-color: green;
+}
